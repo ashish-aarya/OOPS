@@ -43,5 +43,6 @@ class p_rec
 void main ()
 { p_rec p=new p_rec();
 	p.input();
-	p.display();   
+	p.display();  
+	getch(); 
 }

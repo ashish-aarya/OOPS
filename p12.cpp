@@ -40,4 +40,5 @@ void main ()
     cin>>a>>b;
     s.Otherentries(a,b);
     s.Displaydata();
+getch();
 }
