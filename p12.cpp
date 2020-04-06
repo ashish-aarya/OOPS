@@ -35,7 +35,7 @@ class serial
 };
 void main ()
 { float a;int b;
-	serial s=new serial();
+	serial s;
     s.Newserial();
     cin>>a>>b;
     s.Otherentries(a,b);

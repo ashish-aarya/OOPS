@@ -41,7 +41,7 @@ class p_rec
 	}
 };
 void main ()
-{ p_rec p=new p_rec();
+{ p_rec p;
 	p.input();
 	p.display();  
 	getch(); 
