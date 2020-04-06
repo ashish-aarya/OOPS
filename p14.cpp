@@ -39,7 +39,7 @@ class student
 };
 void main ()
 {
-student s=new student();
+student s;
 s.Readmarks();
 s.Displaydata();
 getch();
